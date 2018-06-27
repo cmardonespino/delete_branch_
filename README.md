@@ -6,8 +6,10 @@ El siguiente proyecto escrito en python 3+ se desarrolla para cubrir la necesida
 	* `requests`
 	* `pygithub`
 
+
 #HOWTO
 Modificar las los parametros de la fuenta [variables.py](src/variables.py) de acuerdo a los datos del repositorio
 Desde la shell ubicada en la raiz del proyecto, ejecutar el siguiente comando:
 * `python delete_branch.py`
+
 Las dependencias mencionadas fueron instaladas con el administrador de paquetes pip.
