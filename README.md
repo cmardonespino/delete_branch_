@@ -1,0 +1,3 @@
+dependencias utilizadas:
+requests
+pygithub
